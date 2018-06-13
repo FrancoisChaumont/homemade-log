@@ -1,0 +1,19 @@
+{
+    "name": "francoischaumont/log",
+    "description": "Write logs in file",
+    "authors": [
+        {
+            "name": "Francois Chaumont",
+            "email": "funcois@outlook.com",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "FC\\": "src/"
+        }
+    }
+}
