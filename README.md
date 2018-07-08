@@ -1,4 +1,11 @@
 # Log - write logs in file
+
+![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/homemade-log.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/homemade-log/issues)
+[![GitHub issues](https://img.shields.io/github/issues/FrancoisChaumont/homemade-log.svg)](https://github.com/FrancoisChaumont/homemade-log/issues)
+[![GitHub stars](https://img.shields.io/github/stars/FrancoisChaumont/homemade-log.svg)](https://github.com/FrancoisChaumont/homemade-log/stargazers)
+![Github All Releases](https://img.shields.io/github/downloads/FrancoisChaumont/homemade-log/total.svg)
+
 Simple PHP library to handle writing logs inside a file.
 
 ## Getting started
