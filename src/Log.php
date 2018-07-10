@@ -1,6 +1,6 @@
 <?php
 
-namespace FC;
+namespace FC\HomemadeLog;
 
 /**
  * class to write logs in file

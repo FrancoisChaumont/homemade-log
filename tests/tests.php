@@ -1,8 +1,6 @@
 <?php
 
-namespace FC;
-
-use FC\Log;
+namespace FC\HomemadeLog;
 
 require __DIR__."/../vendor/autoload.php";
 
