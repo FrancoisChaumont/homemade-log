@@ -12,10 +12,22 @@ Simple PHP library to handle writing logs inside a file.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Requirements
-PHP 7.0+
+PHP 7.1+
 
 ### Installation
-Just include the library and you are ready to go.
+Install this package with composer by simply adding the following to your composer.json file:  
+```
+"repositories": [
+    {
+        "url": "https://github.com/FrancoisChaumont/homemade-log.git",
+        "type": "git"
+    }
+]
+```
+and running the following command:  
+```
+composer require francoischaumont/homemade-log
+```
 
 ## Testing
 Under the folder named *tests* you will find a test script ready to use.  
@@ -27,7 +39,7 @@ Works in web browser or CLI.
 ## Authors
 * **Francois Chaumont** - *Initial work* - [FrancoisChaumont](https://github.com/FrancoisChaumont)
 
-See also the list of [contributors](https://github.com/FrancoisChaumont/db/graphs/contributors) who particpated in this project.
+See also the list of [contributors](https://github.com/FrancoisChaumont/homemade-log/graphs/contributors) who particpated in this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
