@@ -1,4 +1,8 @@
-# Log - write logs in file
+# DEPRECATED
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)  
+**See [log](https://github.com/FrancoisChaumont/log) instead.**
+
+Write logs to file
 
 ![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/homemade-log.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/homemade-log/issues)
